@@ -1,2 +1,2 @@
 # testrepocsa
-for CSA
+This repository was created for a CSA assignment.
